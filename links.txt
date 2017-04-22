@@ -1,0 +1,8 @@
+___ Links Úteis para estudo do Git / Github
+
+Curso de Git para iniciantes - Aula 1
+https://www.youtube.com/watch?v=WVLhm1AMeYE
+	E seguintes aulas...
+
+Manual do Git em Português
+https://git-scm.com/book/pt-br/v1/

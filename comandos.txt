@@ -1,0 +1,28 @@
+__ Comandos Básicos
+
+git init -> Primeiro comando para começar um repositório.
+
+git status -> Verifica os Status do seu repositório
+
+git add arquivo.txt -> Adiconar o "arquivo.txt" dentro da área de espera do git.
+
+git add *.txt -> Adiciona todos arquivos .txt a área de espera.
+
+git add . -> Adiciona tudo que está dentro da pasta do repositório.
+
+git commit -m "Comentário que irá acompanhar" -> 'Commita' seus arquivos com o respectivo comentário da versão.
+
+git log -> Vê todos os 'commits' até o momento.
+
+git checkout <9 digitos da Hash> -> Voltará todos os arquivos do repositório para versão escolhida.
+	Ex: git checkout a5fd9da48
+	(Mudará para minha primeira versão do repositório 'github'.)
+
+
+__ Add ao Github
+
+git remote add <nome servidor remoto a ser criado> <endereço do mesmo>
+	Ex: git remote add origin https://github.com/faCr/github.git
+
+	E para subir os arquivos para o Github:
+	git push origin master
